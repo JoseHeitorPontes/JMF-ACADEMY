@@ -31,7 +31,7 @@
                 <li><a href="?p=home">Home</a></li>
                 <li><a href="?p=servicos">Serviços</a></li>
                 <li><a href="?p=produtos">Produtos</a></li>
-                <li><a href="?p=contato">Contatos</a></li>
+                <li><a href="?p=contato">Contato</a></li>
             </ul>
         </nav>
     </div>
